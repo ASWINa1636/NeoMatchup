@@ -1,0 +1,12 @@
+# NeoPlato Dependencies
+# =====================
+# Required:
+#   (none â NeoPlato runs on pure Python + tkinter which comes with Python)
+#
+# Optional (for enhanced features):
+#   pygame   â Sound effects (programmatically generated tones)
+#   numpy    â Required by pygame for sound generation
+
+# Optional dependencies â install for sound effects:
+pygame>=2.5.0
+numpy>=1.24.0

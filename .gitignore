@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+build/
+dist/
+*.spec
+
+data/
+*.db
+*.sqlite3
+
+*.txt
+!requirements.txt
