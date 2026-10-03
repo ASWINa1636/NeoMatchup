@@ -70,5 +70,5 @@ To add new features and updates, we use a single uncompiled `main.py` file that 
 Enjoy playing NeoMatchup!
 
 ## Architecture
-
+[![Architecture diagram of aswina1636/neomatchup](https://gitdiagram.com/aswina1636/neomatchup/diagram.png)](https://gitdiagram.com/aswina1636/neomatchup?utm_source=readme&utm_medium=picture)
 [![Architecture diagram](https://gitdiagram.com/diagram-badge.svg)](https://gitdiagram.com/aswina1636/neomatchup?utm_source=readme&utm_medium=badge)
