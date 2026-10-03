@@ -1,6 +1,10 @@
-# NeoMatchup
+# NeoMatchup [![Architecture diagram](https://gitdiagram.com/diagram-badge.svg)](https://gitdiagram.com/aswina1636/neomatchup?utm_source=readme&utm_medium=badge)
 
 Welcome to **NeoMatchup** (formerly NeoPlato) — a modern, multi-game hub built with Python and Tkinter!
+
+## Architecture
+
+[![Architecture diagram of aswina1636/neomatchup](https://gitdiagram.com/aswina1636/neomatchup/diagram.png)](https://gitdiagram.com/aswina1636/neomatchup?utm_source=readme&utm_medium=picture)
 
 ## Technologies & Modules Used
 This project was entirely built using native Python technologies without heavy external game engines (like Pygame or Unity). Here is everything we used:
@@ -68,10 +72,3 @@ During the development cycle, a critical file corruption event occurred that wip
 To add new features and updates, we use a single uncompiled `main.py` file that imports these `.pyc` modules and dynamically "monkey-patches" the compiled classes at runtime—a powerful advanced Python technique that allows us to seamlessly update the game without needing the original uncompiled source code.
 
 Enjoy playing NeoMatchup!
-
-## Architecture
-
-[![Architecture diagram of aswina1636/neomatchup](https://gitdiagram.com/aswina1636/neomatchup/diagram.png)](https://gitdiagram.com/aswina1636/neomatchup?utm_source=readme&utm_medium=picture)
-
-
-[![Architecture diagram](https://gitdiagram.com/diagram-badge.svg)](https://gitdiagram.com/aswina1636/neomatchup?utm_source=readme&utm_medium=badge)
